@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/realjinkyung/deploy-gh/static/css/main.073c9b0a.css",
+    "main.js": "/realjinkyung/deploy-gh/static/js/main.725d4899.js",
+    "static/js/787.4332fc5c.chunk.js": "/realjinkyung/deploy-gh/static/js/787.4332fc5c.chunk.js",
+    "static/media/logo.svg": "/realjinkyung/deploy-gh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/realjinkyung/deploy-gh/index.html",
+    "main.073c9b0a.css.map": "/realjinkyung/deploy-gh/static/css/main.073c9b0a.css.map",
+    "main.725d4899.js.map": "/realjinkyung/deploy-gh/static/js/main.725d4899.js.map",
+    "787.4332fc5c.chunk.js.map": "/realjinkyung/deploy-gh/static/js/787.4332fc5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.725d4899.js"
+  ]
+}
